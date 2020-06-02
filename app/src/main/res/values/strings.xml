@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="MAPLOGGING">MAPLOGGING</string>
+    <string name="MAKERCLICKED" />
+    <string name="Map">Bike Stations Map</string>
+    <string name="tvLat">Lat</string>
+    <string name="tvLng">Long</string>
+    <string name="tvAddress">Address</string>
+    <string name="Save_Preferences">Save</string>
+    <string name="William20268">My first App</string>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyAQT1TFX_ljjheBuHs35Kdq37osZ_3gHec</string>
+    <string name="DEBUG_MAINACTIVITY" />
+    <string name="save_station">Save Station</string>
+    <string name="location">Location</string>
+    <string name="todo">TODO</string>
+    <string name="shared_prefs">shared prefs</string>
+    <string name="decription">Unfortunately I couldnt manage to settle my on from json</string>
+
+</resources>
